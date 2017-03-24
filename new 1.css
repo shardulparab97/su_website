@@ -1,0 +1,220 @@
+ button{
+      background-color:black;
+      height:60px;
+      width:150px;
+      padding:20px;
+	  border-radius:10px;
+	  }
+  
+     
+    }
+	
+    .margin{
+    margin-top:-20px;
+    color:white;
+    margin-left:-5px;
+    position:relative;
+    }
+    #top{
+      position:absolute;
+      margin-top:250px;
+      
+    }
+    
+      img{
+        height: 50px;
+        width: 50px;
+        border-radius: 100%;
+
+      }
+     .logos{
+         position:absolute;
+         border-radius:100%;
+         background-color:;
+         height:60px;
+         width:100px;
+         display:inline;
+         margin-top:100px;
+         margin-left:300px;
+     }
+     #logod{}
+     #logod1{
+         background-color:;
+         margin-left:300px
+     }
+     #logod2{
+         background-color:;
+         margin-left:375px
+     }
+      #logod3{
+         background-color:;
+         margin-left:450px
+     }
+       #logod4{
+         background-color:;
+         margin-left:525px
+     }
+       #logod5{
+         background-color:;
+         margin-left:600px;
+     }
+       #logod6{
+         
+         margin-left:675px;
+     }
+	  #logod7{
+         
+         margin-left:750px;
+     }
+	  #logod8{
+         
+         margin-left:825px;
+     }
+	  #logod9{
+         
+         margin-left:900px;
+     }
+	  #logod10{
+         
+         margin-left:975px;
+     }
+	  #logod11{
+         
+         margin-left:1050px;
+     }
+     #logoc{}
+     #logoc1{
+         background-color:;
+         margin-left:200px;
+     }
+     #logoc2{
+         background-color:;
+         margin-left:275px;
+     }
+      #logoc3{
+         background-color:;
+         margin-left:350px;
+     }
+       #logoc4{
+         background-color:;
+         
+         margin-left:425px;
+     }
+       #logoc5{
+         background-color:;
+         margin-left:500px
+     }
+       #logoc6{
+         
+         margin-left:575px;
+     }
+	  #logoc7{
+         
+         margin-left:650px;
+     }
+	  #logoc8{
+         
+         margin-left:725px;
+     }
+	  #logoc9{
+         
+         margin-left:800px;
+     }
+	  #logoc10{
+         
+         margin-left:875px;
+     }
+	  #logoc11{
+         
+         margin-left:950px;
+     }
+	 #logos1{
+         background-color:;
+         margin-left:300px
+     }
+     #logos2{
+         background-color:;
+         margin-left:375px
+     }
+      #logos3{
+         background-color:;
+         margin-left:450px
+     }
+       #logos4{
+         background-color:;
+         margin-left:525px
+     }
+       #logos5{
+         background-color:;
+         margin-left:600px;
+     }
+       #logos6{
+         
+         margin-left:675px;
+     }
+	  #logos7{
+         
+         margin-left:750px;
+     }
+	  #logos8{
+         
+         margin-left:825px;
+     }
+	  #logos9{
+         
+         margin-left:900px;
+     }
+	 #logot1{
+         background-color:;
+         margin-left:300px
+     }
+     #logot2{
+         background-color:;
+         margin-left:375px
+     }
+      #logot3{
+         background-color:;
+         margin-left:450px
+     }
+       #logot4{
+         background-color:;
+         margin-left:525px
+     }
+       #logot5{
+         background-color:;
+         margin-left:600px;
+     }
+       #logot6{
+         
+         margin-left:675px;
+     }
+	  #logot7{
+         
+         margin-left:750px;
+     }
+	  #logot8{
+         
+         margin-left:825px;
+     }
+	  #logot9{
+         
+         margin-left:900px;
+     }
+     #departments{}
+     #clubs{}
+	 #sports{}
+	 #tech{}
+	 #ngo{}
+	  .pushd{
+         margin-left:200px;
+     }
+         .pushc{
+         margin-left:100px;
+     }
+	 .text{
+	position:relative;
+	 
+	 margin-top:200px;
+	 margin-left:500px;
+	
+	 }

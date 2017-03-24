@@ -1,0 +1,23 @@
+
+<script
+        src="https://code.jquery.com/jquery-3.1.1.js"
+        integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA="
+        crossorigin="anonymous"></script><script type="text/javascript">
+    $(document).ready(function() {
+         yolo();
+    });
+
+    function yolo()
+    {
+        jQuery.ajax({
+            type: "POST",
+            url: 'interface.php',
+            data: {functionname: 'show_cv',arguments:'sj'},
+            success:function(data) {
+                alert(data);
+                console.log(data);
+                document.write(data);
+            }
+        });
+    }
+</script>
