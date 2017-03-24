@@ -1,0 +1,45 @@
+
+ 
+.logosize{
+      height: 50px;
+        width: 50px;
+        border-radius: 100%;
+
+}
+ .hoversize{
+	 
+	 height:70px;
+	 width:70px;
+	 border-radius:100%;
+	 
+ }	 
+  
+     .text{
+		 background-color:white;
+		 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+		 padding-left:8px;
+		 padding-right:8px;
+		 margin-left:220px;
+		  margin-top:40px; 	
+
+		 
+	 }
+    
+	
+    .sidebarbuttons{
+      
+      height:50px;
+      width:175px;
+      padding:10px;
+	  
+	 }
+  
+    #topbutton{
+      position:absolute;
+      margin-top:250px;
+	  margin-left:0px;
+		
+    }
+    
+   
+	
