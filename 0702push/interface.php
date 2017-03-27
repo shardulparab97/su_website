@@ -1,5 +1,5 @@
 <?php
-require ("../mysqli_connect.php");
+require ("../BackendBoys/mysqli_connect.php");
 require ('function_links.php');
 switch ($_POST['functionname']){
   case 'show_cv':
